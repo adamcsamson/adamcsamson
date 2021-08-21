@@ -11,10 +11,7 @@
 + 📚 I’m currently working on backend engineering, learning anything & everything I can. <br>
 
 
-<details>
-<summary> 🏆 My GitHub Stats & Contributions</summary>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Adamcsamson&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-</details>
+
 
 ### Languages and Tools:
 
@@ -29,6 +26,11 @@
 <br>
 
 ---
+
+<details>
+<summary> 🏆 My GitHub Stats & Contributions</summary>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Adamcsamson&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+</details>
 
 #### Contact Me: Adamcsamson0@gmail.com <br>
 
