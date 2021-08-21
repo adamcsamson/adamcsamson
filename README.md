@@ -14,6 +14,7 @@
 
 #### Contact Me: Adamcsamson0@gmail.com <br>
 
+### 🎧 What I'm Listening To
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=samsonadam)
 
