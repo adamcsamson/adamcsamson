@@ -1,29 +1,24 @@
-## Hello, I'm Adam Samson 👋
+# Hello, I'm Adam Samson 👋
 
 #### Student at Florida International Univeristy, B.Sc Computer Science <br>
 
 ![sv-1](https://user-images.githubusercontent.com/64390520/130308133-f311dc94-e3d3-4eb7-974b-6ffb4e9ebe4c.gif)
 
-🌟 Graduating in December 2021 <br>
-🧰 I’m currently using Java and Python in most of my projects. <br>
-📚 I’m currently working on backend engineering, learning anything & everything I can. <br>
++ 🌟 Graduating in December 2021 <br>
++ 🧰 I’m currently using Java and Python in most of my projects. <br>
++ 📚 I’m currently working on backend engineering, learning anything & everything I can. <br>
 
-
-
-### Open to Entry Level Software Engineering roles in United States & Israel.
 
 #### Contact Me: Adamcsamson0@gmail.com <br>
-
-### 🔼 My GitHub Stats
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Adamcsamson&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+### Open to Entry Level Software Engineering roles in United States & Israel.
 
 
-### 🎧 What I'm Listening To
+---
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=samsonadam)
-
-
+<details>
+<summary> 🏆 My GitHub Stats & Contributions</summary>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Adamcsamson&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+</details>
 
 
 <!--
