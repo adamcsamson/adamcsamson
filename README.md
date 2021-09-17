@@ -2,9 +2,8 @@
 
 #### Student at Florida International Univeristy, B.Sc Computer Science <br>
 
+![sv-21](https://user-images.githubusercontent.com/64390520/133848358-fd816fb9-f445-43e8-a372-e9770a792b35.gif)
 
-
-![sv-1](https://user-images.githubusercontent.com/64390520/130308133-f311dc94-e3d3-4eb7-974b-6ffb4e9ebe4c.gif)
 
 + 🌟 Graduating in December 2021 <br>
 + 🧰 I’m currently using Java and Python in most of my projects. <br>
