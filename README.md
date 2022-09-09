@@ -34,7 +34,7 @@
 
 #### Contact Me: Adamcsamson0@gmail.com <br>
 
-### Open to Entry Level Software Engineering roles in United States & Israel.
+### Open to Analyst-Level Software Engineering roles in United States & Israel.
 
 [wca]: https://www.worldcubeassociation.org/persons/2014WYCE01/
 [vscode]: https://code.visualstudio.com/
