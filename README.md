@@ -1,13 +1,13 @@
 # Hello, I'm Adam Samson 👋
 
-#### Student at Florida International Univeristy, B.Sc Computer Science <br>
+#### Software Engineer, B.Sc Computer Science <br>
 
 ![sv-21](https://user-images.githubusercontent.com/64390520/133848358-fd816fb9-f445-43e8-a372-e9770a792b35.gif)
 
 
-+ 🌟 Graduating in December 2021 <br>
-+ 🧰 I’m currently using Java and Python in most of my projects. <br>
-+ 📚 I’m currently working on backend engineering, learning anything & everything I can. <br>
++ 🌟 Graduated in December 2021 from Florida International University <br>
++ 🧰 Currently using Java/Spring and React in most of my projects. <br>
++ 📚 Study focus is on system design & general architecture at the moment. <br>
 
 
 
