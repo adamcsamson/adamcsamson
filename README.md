@@ -7,7 +7,8 @@
 
 + 🌟 Graduated in December 2021 from Florida International University <br>
 + 🧰 Currently using Java/Spring and React in most of my projects. <br>
-+ 📚 Study focus is on system design & general architecture at the moment. <br>
++ 📚 Robust experience working in all technical environments, from startups to Fortune-500. <br>
+
 
 
 
